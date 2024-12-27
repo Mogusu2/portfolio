@@ -1,20 +1,28 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Postgraduate Degree",
+    duration: "2024 - Present",
+    institution: "Moringa School",
+    subject: "Full Stack Software Engineering",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Bachelor Degree",
+    duration: "2019 - 2023",
+    institution: "St Paul's University",
+    subject: "Bachelor of SCience in Computer Science",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Kenya Certificate Secondary Education",
+    duration: "2015 - 2018",
+    institution: "Utumishi Boys Academy",
+  },
+  {
+    id: 4,
+    title: "Kenya Certificate Primary Education",
+    duration: "2010 - 2014",
+    institution: "Eronge Adventist Boarding Primary School",
   }
 ]
